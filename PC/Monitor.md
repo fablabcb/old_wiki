@@ -1,1 +1,0 @@
-Ein alter PC+Monitor steht evtl noch beim FSR Umwelttechnologien rum.

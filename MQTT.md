@@ -1,1 +1,0 @@
-1.  WEITERLEITUNG [M2M mit MQTT](M2M_mit_MQTT "wikilink")

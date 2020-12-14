@@ -1,1 +1,0 @@
-Unsere [Workshops](Workshops "wikilink")

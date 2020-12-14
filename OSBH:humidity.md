@@ -1,4 +1,0 @@
-## sensors
-
-[conrad humidity sensor
-GY-HR002](http://www.conrad.de/ce/de/product/183324/Feuchte-Sensor-GY-HR002-20-95-rF-0-60-C/?ref=detview1&rt=detview1&rb=1)

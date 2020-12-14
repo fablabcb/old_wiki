@@ -1,4 +1,0 @@
-Die Holzversion: lässt sich gut selbst bauen; so
-ungefähr:[1](http://www.stilsucht.de/images/05-2010/Portemanteau-marina-bautier-2.jpg)
-
-Nice\!
