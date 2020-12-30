@@ -6,7 +6,6 @@ gerade nicht benutzt werden konnte, wurden die Achse und die "Walze"
 gefräst. Die Mühle lässt sich in ihre Einzelteile zerlegen, damit sie
 nach jeder Beutzung komplett gereinigt werden kann.
 
-Datei:Apfel_Achse.png|innere Achse Datei:Apfel_Achse2.png|Walze
-Datei:Apfel_detail1.png|Befestigung der Achse
-Datei:Apfel_detail2.png|Abnehmbare Box Datei:Apfel_detail3.png|ein
-Blick ins "Innere" Datei:Apfel_komplett.png|fertiggestellte Obstmühle
+![Innere Achse](Apfel_Achse.png) ![Walze](Apfel_Achse2.png)
+![Befestigung der Achse](Apfel_detail1.png) ![Abnehmbare Box](Apfel_detail2.png) ![Ein Blick ins Innere](Apfel_detail3.png) 
+![fertiggestellte Obstmühle](Apfel_komplett.png)
